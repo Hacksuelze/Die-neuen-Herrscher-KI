@@ -1,0 +1,7 @@
+name: Die-neuen-Herrscher
+author: Hacksuelze
+version: 1.0.0
+dependencies:
+  aiSwapper: ">=1.1.0"
+  framework: ">=3.0.4"
+  frontend: ">=1.0.5"

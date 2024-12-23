@@ -1,0 +1,19 @@
+{
+  "name": "Vardenow",
+  "description": "Das Haus Vardenow besteht erst seit wenigen Jahrzehnten und doch schaffte es die ambitionierte Adelsfamilie in dieser Zeit, ihr Herrschaftsgebiet um ein Vielfaches auszudehnen. Im Kreuzzug sieht das osteuropäische Adelsgeschlecht eine Chance, ihren Einfluss im Morgenland zu stärken. Auf ihrem Weg zur Großmacht, gehen die Vardenows buchstäblich über Leichen, hinterhältige Intrigen sind an der Tagesordnung.",
+  "author": "Hacksülze",
+  "link": "https://github.com/Hacksuelze",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

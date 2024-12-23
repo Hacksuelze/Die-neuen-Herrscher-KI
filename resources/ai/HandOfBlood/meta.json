@@ -1,0 +1,19 @@
+{
+  "name": "HandOfBlood",
+  "description": "Hänno ist ein blutrünstiger Stratege, der sich als Ziel gesetzt hat, den mittleren Osten im Namen des Königreichs Spandaus zu Kolonialisieren. Hänno unterdrückt seine eigene Gefolgschaft regelmäßig durch das Aufzwingen seiner Videos.",
+  "author": "Hacksülze",
+  "link": "https://github.com/Hacksuelze",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

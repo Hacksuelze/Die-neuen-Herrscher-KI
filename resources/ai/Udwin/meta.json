@@ -1,0 +1,19 @@
+{
+  "name": "Udwin",
+  "description": "Jawohl! Rain in den Dregg, was für eine Schlamschlachd! ...Mein guhtes Hemt?!...HÜHNAFUTT - Verdammt noch mal Günther! Lass doch mal deine Griffel von meiner KI Beschreibung... Ähm Günther, was hast du mit dem Streitkolben vor? Leg den sofor-cthjswqhgukbzdfswaö",
+  "author": "Hacksülze",
+  "link": "https://github.com/Hacksuelze",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Hackerman",
+  "description": "Hackerman wurde gebaut um dem Spieler eine maximale Herausforderung zu bieten, dabei setzt die KI auf eine ganze Palette Exploits.",
+  "author": "Hacksülze",
+  "link": "https://github.com/Hacksuelze",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Khan",
+  "description": "Von der Mittelmeerküste bis zu den östlichsten Gebieten Asiens erstreckt sich das gewaltige Herrschaftsgebiet des Khans. Sein Volk verehrt ihn für seine militärischen Erfolge, doch das unbegrenzte Vertrauen des Khans in seine Kavallarie kann auch seinen Untergang bedeuten.",
+  "author": "Hacksülze",
+  "link": "https://github.com/Hacksuelze",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}
