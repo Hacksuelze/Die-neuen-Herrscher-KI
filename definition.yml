@@ -1,7 +1,9 @@
-name: Die-neuen-Herrscher
+name: Die-neuen-Herrscher-KI-Files
+display-name: Die-neuen-Herrscher-KI-Files
 author: Hacksuelze
 version: 1.0.0
 dependencies:
   aiSwapper: ">=1.1.0"
+  aicloader: ^1.1.1
   framework: ">=3.0.4"
   frontend: ">=1.0.5"
